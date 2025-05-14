@@ -20,5 +20,13 @@ Para dudas o solicitudes relacionadas con tus datos, puedes contactar a:
 
 © 2025 XpressPDF // Administrator – Todos los derechos reservados.  
 
-## documentacion 
-documentacion: https://deepwiki.com/jorgemr3/politicas/2.2-application-assets
+## documentacion
+
+documentacion: <https://deepwiki.com/jorgemr3/politicas/2.2-application-assets>
+
+## Rework
+
+- [ ] Reescribir la política de privacidad para que sea más clara y concisa.
+- [ ] nuevo link corregido
+- [ ] agregado pagina 404 personalizada
+- [ ] agregar un link a la pagina de documentacion publica de la app
