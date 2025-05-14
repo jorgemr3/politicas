@@ -1,17 +1,13 @@
 {
   "hosting": {
-    "site": "privrq",
-    "public": "./",
+    "public": "src",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
-  }
+  },
+   "errorPages": {
+      "404": "/404.html"
+    }
 }

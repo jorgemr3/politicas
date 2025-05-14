@@ -11,11 +11,10 @@ La página informa de forma clara y concisa sobre:
 - **Medidas de seguridad**: cifrado, control de accesos y, en un futuro, auditorías periódicas para proteger los datos del usuario.
 - **Derechos del usuario**: acceso, corrección o eliminación de sus datos.
 
-
-- URL: https://privrq.web.app/
+- URL: <https://xpressrq.web.app>
 
 Para dudas o solicitudes relacionadas con tus datos, puedes contactar a:  
-📧 **jorgemr103@gmail.com**
+📧 **<jorgemr103@gmail.com>**
 
 ---
 
