@@ -19,3 +19,6 @@ Para dudas o solicitudes relacionadas con tus datos, puedes contactar a:
 ---
 
 © 2025 XpressPDF // Administrator – Todos los derechos reservados.  
+
+## documentacion 
+documentacion: https://deepwiki.com/jorgemr3/politicas/2.2-application-assets
